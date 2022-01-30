@@ -1,0 +1,17 @@
+{
+  "name": "linkedinprofilefinder",
+  "version": "1.0.0",
+  "description": "linkedIn profile finder ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "subramani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "passport-linkedin-oauth2": "^2.0.0",
+    "puppeteer": "^13.1.2"
+  }
+}
